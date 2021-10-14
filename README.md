@@ -9,7 +9,7 @@
     Conheci a área de tecnologia em 2019 🙄, quando entrei no curso de sistemas de informação da UFRPE 😀, desde então venho me apaixonando cada vez mais pela tecnologia, e estou     sempre em busca de novos conhecimentos.🥰 
   </p>
  
-<h2> Tecnologias 🌍</h2> 
+<h2> Tecnologias 💾</h2> 
  
  <section>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
