@@ -29,6 +29,8 @@
   <a target="_blank" href="https://www.linkedin.com/in/eug%C3%AAnio-ara%C3%BAjo-4a6520217/">
   <img align="center" alt="Linkedin" width="122px" src="./linkedin.svg" />
    
+   <h3>Email: Eugeniodornelesl2@gmail.com </h3>
+   
   
 </a>
   
