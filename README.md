@@ -31,6 +31,8 @@
    
   
 </a>
+  
+  <h2> Atualmente estudando ReactJs, NextJs</h2>
  
     
  
