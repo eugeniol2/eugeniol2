@@ -25,12 +25,12 @@
  <div>
   <br/>
    <a href="https://github.com/eugeniol2">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniol2&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniol2&theme=midnight-purple"/>
  </div>
 
  <div>
   <br/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eugeniol2&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eugeniol2&theme=midnight-purple"/>
  </div>
     
     
