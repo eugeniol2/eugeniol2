@@ -33,7 +33,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eugeniol2&theme=blue-green"/>
  </div>
     
- <br/>
     
  <h2> Informações de contato 🧭</h2>
   
