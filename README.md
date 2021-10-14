@@ -32,7 +32,9 @@
   
 </a>
   
-  <h2> Atualmente estudando ReactJs, NextJs</h2>
- 
+  <h2> O que estou fazendo atualmente</h2>
+  <p>
+    Estou atualmente estudando ReactJs, NextJs através da rocketseat 
+  </p>
     
  
