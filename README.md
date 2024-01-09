@@ -1,12 +1,13 @@
 
-<h1> Hello everyone! me chamo Eugênio Araújo.👻 </h1>
+<h1> Olá, me chamo Eugênio Araújo!!! </h1>
 
 
 <div style="display: inline_block">
  
-<h2> Um pouco sobre mim 🪂</h2> 
+<h2> Um pouco sobre mim... 🪂</h2> 
   <p>
-    Conheci a área de tecnologia em 2019 🙄, quando entrei no curso de sistemas de informação da UFRPE 😀, desde então venho me apaixonando cada vez mais pela tecnologia, e estou     sempre em busca de novos conhecimentos.🥰 
+    Começei meus estudos na área desde 2019, venho então me aperfeiçoando em desenvolvimento WEB utilizando majoritariamente a framework next.js e react.js. Atuo como front-end no desenvolvimento de telas fieis ao protótipo e, mais importante, utilizando uma filosofia de código limpo, que é algo fundamental para a escalabilidade de um projeto, visto que o tempo de manutenção continuará rápido e prático.
+   Atuo atualmente em um time free-lancer, como dev front-end junior.
   </p>
  
 <h2> Tecnologias 💾</h2> 
