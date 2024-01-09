@@ -51,9 +51,4 @@
    </p>
 </a>
   
-  <h2> O que estou fazendo atualmente 🛠</h2>
-  <p>
-    Em busca de uma oportunidade de estágio
-  </p>
-    
  
